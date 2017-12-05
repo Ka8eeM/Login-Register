@@ -1,4 +1,4 @@
-package com.example.karim.login;
+package com.example.karim.login.Activities;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
+
+import com.example.karim.login.R;
 
 public class Display extends AppCompatActivity {
 

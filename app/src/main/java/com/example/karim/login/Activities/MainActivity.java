@@ -1,4 +1,4 @@
-package com.example.karim.login;
+package com.example.karim.login.Activities;
 
 import android.content.Context;
 import android.content.Intent;
@@ -7,10 +7,7 @@ import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.karim.login.Activities.LogIn;
-import com.example.karim.login.Activities.Register;
-
-import java.io.File;
+import com.example.karim.login.R;
 
 public class MainActivity extends AppCompatActivity {
 

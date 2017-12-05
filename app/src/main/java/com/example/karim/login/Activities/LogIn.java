@@ -9,7 +9,6 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.karim.login.Display;
 import com.example.karim.login.R;
 
 public class LogIn extends AppCompatActivity {
